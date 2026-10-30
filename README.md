@@ -1,40 +1,21 @@
-<pre>
-  .-----------------------------------------------------------.
-  |  o o o                tobias@binus: ~                     |
-  |===========================================================|
-  |                                                           |     *        .        *
-  |   __          __                                          |          .       *
-  |  |  |_.-----.|  |--.---.-.--.--.                          |    .        v  v       .
-  |  |   _|  _  ||  _  |  _  |  |  |                          |        *  v       .
-  |  |____|_____||_____|___._|___  |                          |            .-''''''-.
-  |                          |_____|                          |          .'          '.
-  |                                                           |         /              \
-  |  cs student @ binus university                            |        |================|
-  |  i build things with ai &amp; help people code                |        |----------------|
-  |                                                           |         \==============/
-  |  ~ $ cat now.txt                                          |   ~~~~~~'--------------'~~~~~
-  |    &gt; software laboratory assistant @ binus                |     ~~~  ~~~~~~~~~~~~~~  ~~~
-  |    &gt; scholarship mentor @ binus                           |       ~~~    ~~~~~~    ~~~
-  |    &gt; public relations @ bncc                              |                    |\
-  |                                                           |      ~~~           | \    ~~
-  |  ~ $ cat next.txt                                         |                    |__\
-  |    &gt; apple developer academy @ binus, bali                |         ~~~     \_______/ ~~
-  |    &gt; touching down march 2027                             |     ~~       ~~~~~~~~~~~~
-  |                                                           |
-  |  ~ $ ls stack/                                            |          __ _
-  |    langs     python  java  kotlin  typescript  c  sql     |        .'  ' '.
-  |    web       react  node  nest.js  prisma                 |       /  .'|'. \
-  |    data/ml   nlp  computer vision  sql server  power bi   |          / | \
-  |    cloud     docker  kubernetes  terraform  azure         |            |
-  |                                                           |            )
-  |  ~ $ echo $contact                                        |            |
-  |    <a href="https://linkedin.com/in/rafaeltobiasgosal">linkedin.com/in/rafaeltobiasgosal</a>                      |   ~(_______________)~
-  |                                                           |
-  |  ~ $ _                                                    |
-  |                                                           |
-  '-----------------------------------------------------------'
-   /  [_] [_] [_] [_] [_] [_] [_] [_] [_] [_] [_] [_] [_] [_]  \
-  /   [__] [_] [_] [_] [_] [_] [_] [_] [_] [_] [_] [_] [____]   \
- /       [___] [_] [_] [_] [___________] [_] [_] [_] [___]       \
-/___________________________[_________]___________________________\
-</pre>
+<img src="assets/hero.svg" alt="Hi, I'm Tobi"><br>
+Half of me is tuning hyperparameters at 2am. The other half is asking "okay, but who's going to use this?" Together we're a software engineer who builds AI products: smart on the inside, simple on the outside.
+
+<br>
+
+<img src="assets/now.svg" alt="Now"><br>
+Going deeper into deep learning, product engineering and cyber security. Swift and iOS are next, at the Apple Developer Academy in 2027.
+
+<br>
+
+<img src="assets/stack.svg" alt="Stack"><br>
+**Models** · Python, NLP, computer vision, classical & ensemble learning<br>
+**Build** · React, Node.js, NestJS, Prisma, Kotlin<br>
+**Data** · SQL Server, MySQL, Power BI, ETL & OLAP<br>
+**Ship** · Docker, Kubernetes, Terraform, Azure<br>
+**Test** · Selenium, K6, Prometheus, Grafana
+
+<br>
+
+<img src="assets/elsewhere.svg" alt="Elsewhere"><br>
+**[LinkedIn](https://linkedin.com/in/rafaeltobiasgosal)** · **[Email](mailto:tobiasgosal@gmail.com)** · feel free to say hi!
